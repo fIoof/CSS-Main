@@ -1,0 +1,53 @@
+.Top-container {
+    background-color: #FF7A00;
+    background-image: linear-gradient(#FF7A00, #FFEFCF);
+    height: 1000px;
+    width: 1000px;
+    padding-right: 1000px;
+    text-align: center;
+}
+body {
+    margin: 0px;
+    text-align: center;
+
+
+
+}
+.Middle-Container{
+}
+.Bottom-container{
+}
+h1{
+    font-family: "Comic Sans MS";
+    margin-top: 0px;
+}
+p{
+    font-family: "Comic Sans MS";
+}
+.pro{
+    text-decoration: underline;
+}
+.mountain{
+    left: 450px;
+    position: absolute;
+    width: 1250px;
+    margin-top: 150px;
+    margin-right: 500px;
+    
+
+
+}
+.cloud-1{
+
+}
+.cloud-2 {
+    left: 500px;
+    position: absolute;
+}
+div{
+
+}
+.heading{
+    margin-left: 650px;
+}
+
