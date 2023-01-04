@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93245447-697c-46ae-84eb-4a1046f1ee9d" name="Changes" comment="First Commit for Website" />
+    <list default="true" id="93245447-697c-46ae-84eb-4a1046f1ee9d" name="Changes" comment="Refactored folders">
+      <change afterPath="$PROJECT_DIR$/1st Website folder/Images/cf7442caf3d65a437a8b540405017d150cdfb54d_full.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st Website folder/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1st Website folder/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st Website folder/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/1st Website folder/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +34,22 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d8d53389-625d-4e77-be2a-66acdb7c9162" />
+        <option name="url" value="https://github.com/fIoof/CSS-Main.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/1st Website folder/styles.css" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -59,6 +80,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rebecca\Projects\1st Website\1st Website folder\Images" />
+      <recent name="C:\Users\rebecca\Projects\1st Website\1st Website folder" />
       <recent name="C:\Users\rebecca\Projects\1st Website\Images" />
     </key>
   </component>
@@ -79,7 +102,7 @@
       <workItem from="1670328341573" duration="9843000" />
       <workItem from="1670582773545" duration="1421000" />
       <workItem from="1672826012792" duration="333000" />
-      <workItem from="1672831256019" duration="3334000" />
+      <workItem from="1672831256019" duration="9256000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit for Website">
       <created>1672842032614</created>
@@ -102,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672843437514</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Refactored folders">
+      <created>1672843814612</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672843814612</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +151,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit for Website" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit for Website" />
+    <MESSAGE value="Refactored folders" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored folders" />
   </component>
 </project>
